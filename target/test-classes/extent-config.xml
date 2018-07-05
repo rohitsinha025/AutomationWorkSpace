@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extentreports>
+    <configuration>
+        <encoding>UTF-8</encoding>
+        <documentTitle>CMC Extent Reports - v1.0.0</documentTitle>
+        <reportName>CMC</reportName>
+        <reportHeadline> - Automation Execution Reports</reportHeadline>
+        <theme>dark</theme> 
+    </configuration>
+    
+</extentreports>

@@ -1,0 +1,10 @@
+IMAP\testing.class
+StepDefinitionClass\Step_Definations.class
+IMAP\WebTable.class
+IMAP\ReportScreenShot.class
+IMAP\BaseClass.class
+IMAP\BaseClass$2.class
+IMAP\BaseClass$1.class
+IMAP\ExcelToProperty.class
+IMAP\ObjectMap.class
+TestRunner.class
